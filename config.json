@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "update_time": "2024-01-20",
+  "game_url": "https://example.com/game",
+  "features": {
+    "feature1": true,
+    "feature2": false
+  }
+}
