@@ -5,6 +5,7 @@
             "cover_url": "",
             "id": 0,
             "title": "Sprunki",
+            "star": "5.0",
             "url": "https://kdata1.com/2024/09/incredibox-sprunki/"
         },
         {
@@ -12,6 +13,7 @@
             "cover_url": "",
             "id": 1,
             "title": "Sprunki Dandy\u0027s World",
+            "star": "4.9",
             "url": "https://scratch.mit.edu/projects/1075503895/embed"
         },
         {
@@ -19,6 +21,7 @@
             "cover_url": "",
             "id": 2,
             "title": "Incredibox Mustard",
+            "star": "4.0",
             "url": "https://kdata1.com/2024/10/colorbox-mustard/"
         },
         {
@@ -26,6 +29,7 @@
             "cover_url": "",
             "id": 3,
             "title": "Sprunki Sprunked",
+            "star": "4.6",
             "url": "https://scratch.mit.edu/projects/1083603932/embed"
         },
         {
@@ -33,6 +37,7 @@
             "cover_url": "",
             "id": 4,
             "title": "Sprunki-Phase-3",
+            "star": "4.6",
             "url": "https://wowtbc.net/sprunki/phase-3/index.html"
         },
         {
@@ -40,6 +45,7 @@
             "cover_url": "",
             "id": 5,
             "title": "Sprunki-Phase-4",
+            "star": "4.3",
             "url": "https://sprunki.org/sprunki-phase-4.embed"
         },
         {
@@ -47,6 +53,7 @@
             "cover_url": "",
             "id": 6,
             "title": "Sprunki-Phase-5",
+            "star": "4.0",
             "url": "https://sprunki.org/sprunki-phase-5.embed"
         },
         {
@@ -54,6 +61,7 @@
             "cover_url": "",
             "id": 7,
             "title": "Sprunki-Phase-6",
+            "star": "4.4",
             "url": "https://sprunki.org/sprunki-phase-6.embed"
         },
         {
@@ -61,6 +69,7 @@
             "cover_url": "",
             "id": 8,
             "title": "Sprunki Retake",
+            "star": "4.9",
             "url": "https://sprunki.org/sprunki-retake.embed"
         },
         {
@@ -68,6 +77,7 @@
             "cover_url": "",
             "id": 9,
             "title": "Zombies Sprunki",
+            "star": "5.0",
             "url": "https://kdata1.com/2024/10/zombies-can-sing-too/"
         }
     ],
