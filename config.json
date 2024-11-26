@@ -82,7 +82,7 @@
         }
     ],
     "game_url": "https://example.com/game",
-    "is_valide": 1,
+    "is_valide": 0,
     "update_time": "2024-01-02",
     "version": 1
 }
