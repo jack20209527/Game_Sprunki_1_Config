@@ -1,9 +1,78 @@
 {
-  "version": 1,
-  "update_time": "2024-01-20",
-  "game_url": "https://example.com/game",
-  "features": {
-    "feature1": true,
-    "feature2": false
-  }
+    "data": [
+        {
+            "cover_local": "sprunki_main",
+            "cover_url": "",
+            "id": 0,
+            "title": "Sprunki",
+            "url": "https://kdata1.com/2024/09/incredibox-sprunki/"
+        },
+        {
+            "cover_local": "sprunki_dandys_world",
+            "cover_url": "",
+            "id": 1,
+            "title": "Sprunki Dandy\u0027s World",
+            "url": "https://scratch.mit.edu/projects/1075503895/embed"
+        },
+        {
+            "cover_local": "Incredibox Mustard",
+            "cover_url": "",
+            "id": 2,
+            "title": "Incredibox Mustard",
+            "url": "https://kdata1.com/2024/10/colorbox-mustard/"
+        },
+        {
+            "cover_local": "sprunki_sprunked",
+            "cover_url": "",
+            "id": 3,
+            "title": "Sprunki Sprunked",
+            "url": "https://scratch.mit.edu/projects/1083603932/embed"
+        },
+        {
+            "cover_local": "sprunki_phase_3",
+            "cover_url": "",
+            "id": 4,
+            "title": "Sprunki-Phase-3",
+            "url": "https://wowtbc.net/sprunki/phase-3/index.html"
+        },
+        {
+            "cover_local": "sprunki_phase_4",
+            "cover_url": "",
+            "id": 5,
+            "title": "Sprunki-Phase-4",
+            "url": "https://sprunki.org/sprunki-phase-4.embed"
+        },
+        {
+            "cover_local": "sprunki_phase_5",
+            "cover_url": "",
+            "id": 6,
+            "title": "Sprunki-Phase-5",
+            "url": "https://sprunki.org/sprunki-phase-5.embed"
+        },
+        {
+            "cover_local": "sprunki_phase_6",
+            "cover_url": "",
+            "id": 7,
+            "title": "Sprunki-Phase-6",
+            "url": "https://sprunki.org/sprunki-phase-6.embed"
+        },
+        {
+            "cover_local": "sprunki_retake",
+            "cover_url": "",
+            "id": 8,
+            "title": "Sprunki Retake",
+            "url": "https://sprunki.org/sprunki-retake.embed"
+        },
+        {
+            "cover_local": "sprunki_zombies",
+            "cover_url": "",
+            "id": 9,
+            "title": "Zombies Sprunki",
+            "url": "https://kdata1.com/2024/10/zombies-can-sing-too/"
+        }
+    ],
+    "game_url": "https://example.com/game",
+    "is_valide": 1,
+    "update_time": "2024-01-02",
+    "version": 1
 }
